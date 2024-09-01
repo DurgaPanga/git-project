@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is fature1 branch text
+=======
+This is feature2 branch commit
+>>>>>>> origin/feature2
